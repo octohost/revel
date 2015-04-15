@@ -14,5 +14,3 @@ git remote add octohost git@ip.address.here:revel.git
 git push octohost master
 ```
 
-Example site \(usually\) at [http://revel.octohost.io](http://revel.octohost.io)
-
